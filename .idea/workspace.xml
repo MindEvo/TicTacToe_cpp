@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="sfml_project" targetName="sfml_project" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="602f1045-c0ff-41c6-984a-7501f6cc5507" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1UUwYCAsyZaFV0ZKWNRmTwS1xPy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager" selected="CMake Application.sfml_project">
+    <configuration name="Debug" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="sfml_project" TARGET_NAME="sfml_project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="sfml_project" RUN_TARGET_NAME="sfml_project">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sfml_project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="sfml_project" TARGET_NAME="sfml_project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="sfml_project" RUN_TARGET_NAME="sfml_project">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Debug" />
+      <item itemvalue="CMake Application.sfml_project" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="602f1045-c0ff-41c6-984a-7501f6cc5507" name="Default Changelist" comment="" />
+      <created>1575424527639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575424527639</updated>
+      <workItem from="1575424535187" duration="398000" />
+      <workItem from="1575424972283" duration="783000" />
+      <workItem from="1575434840206" duration="7562000" />
+      <workItem from="1575447405676" duration="8609000" />
+      <workItem from="1575495182999" duration="9000" />
+      <workItem from="1575504361468" duration="7137000" />
+      <workItem from="1575584430375" duration="5564000" />
+      <workItem from="1575881752552" duration="9984000" />
+      <workItem from="1575919735408" duration="1386000" />
+      <workItem from="1575936169593" duration="6629000" />
+      <workItem from="1575952405065" duration="2453000" />
+      <workItem from="1576020813914" duration="11709000" />
+      <workItem from="1576109987569" duration="12189000" />
+      <workItem from="1576144939659" duration="5565000" />
+      <workItem from="1576176784825" duration="1496000" />
+      <workItem from="1576194904473" duration="3182000" />
+      <workItem from="1576198507092" duration="6566000" />
+      <workItem from="1577159227328" duration="2546000" />
+      <workItem from="1577203651143" duration="1246000" />
+      <workItem from="1577223901563" duration="5450000" />
+      <workItem from="1577232970440" duration="14000000" />
+      <workItem from="1577249862648" duration="6241000" />
+      <workItem from="1577390492088" duration="784000" />
+      <workItem from="1577392412162" duration="173000" />
+      <workItem from="1577400890934" duration="337000" />
+      <workItem from="1578372670695" duration="1737000" />
+      <workItem from="1589147312567" duration="131000" />
+      <workItem from="1589155581353" duration="144000" />
+      <workItem from="1590177522981" duration="8000" />
+      <workItem from="1590192674444" duration="4000" />
+      <workItem from="1591660136232" duration="5765000" />
+      <workItem from="1592263537426" duration="600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1235" height="97" key="GridCell.Tab.0.bottom" timestamp="1591670396031">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1235" height="97" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1591670396031" />
+    <state width="1321" height="107" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.-235.1920.1080@0.0.1366.768" timestamp="1589147445037" />
+    <state width="1235" height="97" key="GridCell.Tab.0.center" timestamp="1591670396031">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1235" height="97" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1591670396031" />
+    <state width="1321" height="107" key="GridCell.Tab.0.center/0.0.1366.768/1366.-235.1920.1080@0.0.1366.768" timestamp="1589147445037" />
+    <state width="1235" height="97" key="GridCell.Tab.0.left" timestamp="1591670396031">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1235" height="97" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1591670396031" />
+    <state width="1321" height="107" key="GridCell.Tab.0.left/0.0.1366.768/1366.-235.1920.1080@0.0.1366.768" timestamp="1589147445036" />
+    <state width="1235" height="97" key="GridCell.Tab.0.right" timestamp="1591670396031">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1235" height="97" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1591670396031" />
+    <state width="1321" height="107" key="GridCell.Tab.0.right/0.0.1366.768/1366.-235.1920.1080@0.0.1366.768" timestamp="1589147445037" />
+    <state x="296" y="160" key="run.anything.popup" timestamp="1591664894276">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="296" y="160" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1591664894276" />
+  </component>
+</project>
